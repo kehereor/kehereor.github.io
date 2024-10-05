@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kehereor.github.io/sitemap.html.gz
+Sitemap: https://kehereor.github.io/app/sitemap.html.gz
+Sitemap: https://kehereor.github.io/assets/sitemap.html.gz
+Sitemap: https://kehereor.github.io/css/sitemap.html.gz
+Sitemap: https://kehereor.github.io/data/sitemap.html.gz
+Sitemap: https://kehereor.github.io/includes/sitemap.html.gz
+Sitemap: https://kehereor.github.io/item/sitemap.html.gz
+Sitemap: https://kehereor.github.io/src/sitemap.html.gz
